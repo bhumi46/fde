@@ -1,0 +1,19 @@
+shipment_id,origin,destination,carrier,ship_date,promised_date,delivered_date,status
+SH-1001,Chicago,Detroit,FastFreight,2026-10-01,2026-10-03,2026-10-03,delivered
+SH-1002,Chicago,Milwaukee,fast freight,2026-10-01,2026-10-02,2026-10-04,delivered
+SH-1003,Indianapolis,Columbus,RoadRunner Logistics,10/02/2026,10/04/2026,10/04/2026,Delivered
+SH-1004,St. Louis,Kansas City,ROADRUNNER,2026-10-02,2026-10-04,2026-10-07,delivered
+SH-1005,Detroit,Cleveland,Lakeside Haulers,2026-10-03,2026-10-05,,in_transit
+SH-1006,Minneapolis,Des Moines,FASTFREIGHT ,3 Oct 2026,5 Oct 2026,5 Oct 2026,delivered
+SH-1002,Chicago,Milwaukee,fast freight,2026-10-01,2026-10-02,2026-10-04,delivered
+SH-1007,Chicago,Indianapolis,Prairie Express,2026-10-04,2026-10-06,2026-10-06,delivered
+,,,,,,,
+SH-1008,Columbus,Pittsburgh,Lakeside Haulers,2026-10-04,2026-10-06,2026-10-09,DELIVERED
+SH-1009,Kansas City,Omaha,prairie express,2026-10-05,2026-10-07,,in_transit
+SH-1010,Milwaukee,Minneapolis,Roadrunner Logistics,10/05/2026,10/08/2026,10/08/2026,delivered
+SH-1011,Detroit,Chicago,FastFreight,2026-10-06,2026-10-08,2026-10-11,delivered
+SH-1012,Des Moines,St. Louis,Lakeside,2026-10-06,2026-10-09,2026-10-09,delivered
+SH-1013,Cleveland,Detroit,Prairie Express,2026-10-07,2026-10-08,,in_transit
+SH-1014,Omaha,Kansas City,Unknown Carrier,2026-10-07,2026-10-09,2026-10-10,delivered
+SH-1011,Detroit,Chicago,FastFreight,2026-10-06,2026-10-08,2026-10-11,delivered
+SH-1015,Pittsburgh,Columbus,RoadRunner Logistics,2026-10-08,2026-10-10,2026-10-10,delivered

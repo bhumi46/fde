@@ -1,0 +1,6 @@
+[
+  {"carrier_id": "FF", "name": "FastFreight", "contact": "ops@fastfreight.example", "sla_days": 2},
+  {"carrier_id": "RR", "name": "RoadRunner Logistics", "contact": "dispatch@roadrunner.example", "sla_days": 2},
+  {"carrier_id": "LH", "name": "Lakeside Haulers", "contact": "support@lakeside.example", "sla_days": 3},
+  {"carrier_id": "PX", "name": "Prairie Express", "contact": "help@prairie.example", "sla_days": 2}
+]

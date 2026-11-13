@@ -1,0 +1,9 @@
+SH-1002 | 2026-10-03 | rui.o | dock 4 at MKE closed, waited 6hr for slot. recv said no appt on file
+SH-1004 | 2026-10-05 | driver22 | I-70 closure near columbia MO, detour +3h. then HOS ran out, overnight in boonville
+SH-1004 | 2026-10-06 | rui.o | KC recv refused 2 pallets damaged, reloaded, redeliver tmrw
+SH-1008 | 2026-10-07 | driver07 | reefer unit alarm, stopped in youngstown for repair. ~1 day
+SH-1008 | 2026-10-08 | driver07 | fixed. PIT consignee closed sat, delivering mon
+SH-1011 | 2026-10-09 | rui.o | trailer not loaded when driver arrived DET, shipper short staffed. left 1 day late
+SH-1011 | 2026-10-10 | driver15 | traffic CHI, missed recv window again. appt system wont let me rebook till tmrw
+SH-1013 | 2026-10-08 | driver31 | running behind, prev stop took long
+SH-1014 | 2026-10-09 | unknown | ??? carrier not in our system, who booked this
